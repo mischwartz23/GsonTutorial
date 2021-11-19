@@ -3,7 +3,7 @@
  * see https://github.com/mischwartz23/GsonTutorial.git
  * Author: M I Schwartz
  */
-package edu.du.ict4316.gsontutorial.test;
+package edu.du.ict4315.gsontutorial.test;
 
 import edu.du.ict4315.gsontutorial.Address;
 import org.junit.jupiter.api.Test;
