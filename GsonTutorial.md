@@ -540,7 +540,8 @@ Usage example:
 
 ```
 GsonBuilder builder = new GsonBuilder();
-Gson gson = builder.setFieldNamingPolicy(FieldNamingPolicy.LOWER_CASE_WITH_DASHES).create();
+Gson gson = builder.setFieldNamingPolicy(FieldNamingPolicy.LOWER_CASE_WITH_DASHES)
+                   .create();
 gson.toJson(yourObject);
 ```
 
